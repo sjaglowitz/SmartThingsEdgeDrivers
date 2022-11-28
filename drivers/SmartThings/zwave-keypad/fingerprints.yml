@@ -1,8 +1,8 @@
 zwaveManufacturer:
   - id: Ring/Keypad2ndGen
-    deviceLabel: Z-Wave Device
+    deviceLabel: Ring Keypad
     manufacturerId: 0x0346
     productType: 0x0101
     productId: 0x0301
-    deviceProfileName: Z-Wave Device
+    deviceProfileName: Ring Keypad 2nd Gen
 
